@@ -1,8 +1,41 @@
-# STM32F746G_DISCO TBS.
+# NeuroBlink
+NeuroBlink is a real-time eye-blink recognition system designed to assist individuals with neurodegenerative diseases in expressing themselves through simple, intuitive interactions.
 
-The default IDE is set to STM32CubeIDE, to change IDE open the STM32F746G_DISCO.ioc with STM32CubeMX and select from the supported IDEs (EWARM from version 8.50.9, MDK-ARM, and STM32CubeIDE). Supports flashing of the STM32F746G_DISCO board directly from TouchGFX Designer using GCC and STM32CubeProgrammer.Flashing the board requires STM32CubeProgrammer which can be downloaded from the ST webpage. 
+# 💡 Inspiration
+This project was inspired by remarkable individuals such as Stephen Hawking and Jean-Dominique Bauby, who, despite severe physical limitations, retained full intellectual capacity. NeuroBlink aims to empower those facing similar challenges by offering an accessible communication method based on eye-blinking detection.
 
-This TBS is configured for 272 x 480 pixels 16bpp screen resolution.  
+# 🧠 Project Overview
+NeuroBlink enables users to input and display messages through intentional eye blinks. It detects predefined Morse-like blink patterns in real time and sends the decoded text to an STM32F746 Discovery board, where it is displayed on an integrated LCD-TFT screen using TouchGFX.
 
-Performance testing can be done using the GPIO pins designated with the following signals: VSYNC_FREQ  - Pin PB4(D3), RENDER_TIME - Pin PC6(D1), FRAME_RATE  - Pin PC7(D0), MCU_ACTIVE  - Pin PG6(D2)
- 
+# 🔧 Tools & Technologies
+Software:
+STM32CubeIDE – Firmware development for STM32.
+
+TouchGFX Designer – UI design and display integration.
+
+PyCharm – Python development environment for PC-side processing.
+
+Hardware:
+STM32F746G-DISCO – Development board with LCD-TFT display.
+
+Libraries & Frameworks:
+OpenCV – For video capture and image processing.
+
+dlib – For facial landmark detection.
+
+Facemark API – Used to track and analyze eye landmarks for blink detection.
+
+# 📷 Features
+Real-time video stream processing.
+
+Accurate eye-blink detection using facial landmarks.
+
+Morse-like pattern recognition via blinking.
+
+Serial communication with STM32 board.
+
+Display of decoded messages on LCD screen.
+
+🚀 Future Work
+This project is always under development for future enhancements and features.
+I'm open to any suggestion !
