@@ -57,6 +57,5 @@ NeuroBlink enables users to input and display messages through intentional eye b
 ## 🚀 Future Work
 
 This project is continuously evolving with new enhancements and features planned.  
-**I'm open to any suggestions!** Feel free to fork, contribute, or open issues.
-
+**I'm open to any suggestions!** 
 ---
