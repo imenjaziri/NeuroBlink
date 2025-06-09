@@ -1,5 +1,5 @@
 Application/User/Core/stm32f7xx_hal_msp.o: \
- C:/TouchGFXProjects/sim/Core/Src/stm32f7xx_hal_msp.c \
+ C:/TouchGFXProjects/NeuroBlink/Core/Src/stm32f7xx_hal_msp.c \
  ../../Core/Inc/main.h \
  ../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../../Core/Inc/stm32f7xx_hal_conf.h \

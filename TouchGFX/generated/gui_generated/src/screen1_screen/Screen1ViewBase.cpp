@@ -12,12 +12,12 @@ Screen1ViewBase::Screen1ViewBase()
     __background.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
     add(__background);
 
-    scalableImage1.setBitmap(touchgfx::Bitmap(BITMAP_NEUROBLINK_ID));
+    scalableImage1.setBitmap(touchgfx::Bitmap(BITMAP_NEUROBLINK_FINALL_ID));
     scalableImage1.setPosition(0, 0, 480, 272);
     scalableImage1.setScalingAlgorithm(touchgfx::ScalableImage::NEAREST_NEIGHBOR);
     add(scalableImage1);
 
-    textArea1.setPosition(6, 188, 480, 101);
+    textArea1.setPosition(8, 184, 472, 88);
     textArea1.setColor(touchgfx::Color::getColorFromRGB(255, 255, 255));
     textArea1.setLinespacing(0);
     Unicode::snprintf(textArea1Buffer, TEXTAREA1_SIZE, "%s", touchgfx::TypedText(T___SINGLEUSE_8UQS).getText());

@@ -1,5 +1,6 @@
 Application/User/Core/stm32f7xx_it.o: \
- C:/TouchGFXProjects/sim/Core/Src/stm32f7xx_it.c ../../Core/Inc/main.h \
+ C:/TouchGFXProjects/NeuroBlink/Core/Src/stm32f7xx_it.c \
+ ../../Core/Inc/main.h \
  ../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../../Core/Inc/stm32f7xx_hal_conf.h \
  ../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc.h \

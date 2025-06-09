@@ -17,12 +17,12 @@
         <Translation Language="GB"></Translation>
       </Text>
       <Text Id="__SingleUse_A77R" Alignment="Left" TypographyId="Default">
-        <Translation Language="GB">Received text is : &lt;value&gt;</Translation>
+        <Translation Language="GB">My message is : &lt;value&gt;</Translation>
       </Text>
     </TextGroup>
   </Texts>
   <Typographies>
-    <Typography Id="Default" Font="verdanab.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="." WildcardCharacterRanges="0x20-0x7E" />
+    <Typography Id="Default" Font="seguisb.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="." WildcardCharacterRanges="0x20-0x7E" />
     <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
     <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
   </Typographies>

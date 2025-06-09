@@ -1,5 +1,5 @@
 Application/User/gui/Model.o: \
- C:/TouchGFXProjects/sim/TouchGFX/gui/src/model/Model.cpp \
+ C:/TouchGFXProjects/NeuroBlink/TouchGFX/gui/src/model/Model.cpp \
  ../../TouchGFX/gui/include/gui/model/Model.hpp \
  ../../TouchGFX/gui/include/gui/model/ModelListener.hpp \
  ../../Core/Inc/main.h \

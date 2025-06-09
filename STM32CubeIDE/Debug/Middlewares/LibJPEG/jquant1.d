@@ -1,5 +1,5 @@
 Middlewares/LibJPEG/jquant1.o: \
- C:/TouchGFXProjects/sim/Middlewares/Third_Party/LibJPEG/source/jquant1.c \
+ C:/TouchGFXProjects/NeuroBlink/Middlewares/Third_Party/LibJPEG/source/jquant1.c \
  ../../Middlewares/Third_Party/LibJPEG/include/jinclude.h \
  ../../LIBJPEG/Target/jconfig.h ../../LIBJPEG/Target/jdata_conf.h \
  ../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h \

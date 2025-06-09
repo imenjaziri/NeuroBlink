@@ -224,7 +224,7 @@ int main(void)
 
   /* Create the queue(s) */
   /* creation of uartQueue */
-  uartQueueHandle = osMessageQueueNew (2, sizeof(uartData_t), &uartQueue_attributes);
+  uartQueueHandle = osMessageQueueNew (10, sizeof(uint8_t), &uartQueue_attributes);
 
   /* USER CODE BEGIN RTOS_QUEUES */
   /* add queues, ... */

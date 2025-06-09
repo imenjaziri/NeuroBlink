@@ -64,6 +64,8 @@ TouchGFX/build/STM32F746-DISCO/TouchGFX/target/TouchGFXHAL.o: \
  Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_qspi.h \
  Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim.h \
  Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim_ex.h \
+ Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h \
+ Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h \
  Middlewares/ST/touchgfx/framework/include/touchgfx/hal/OSWrappers.hpp \
  TouchGFX/target/CortexMMCUInstrumentation.hpp \
  Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h \
@@ -209,6 +211,10 @@ Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_qspi.h:
 Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim.h:
 
 Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_tim_ex.h:
+
+Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart.h:
+
+Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_uart_ex.h:
 
 Middlewares/ST/touchgfx/framework/include/touchgfx/hal/OSWrappers.hpp:
 

@@ -9,16 +9,16 @@
             "Name": "scalableImage1",
             "Width": 480,
             "Height": 272,
-            "Filename": "neuroblink.png",
+            "Filename": "neuroblink finall.png",
             "ScalingAlgorithm": "Nearest-neighbor"
           },
           {
             "Type": "TextArea",
             "Name": "textArea1",
-            "X": 6,
-            "Y": 188,
-            "Width": 480,
-            "Height": 101,
+            "X": 8,
+            "Y": 184,
+            "Width": 472,
+            "Height": 88,
             "TextId": "__SingleUse_A77R",
             "TextRotation": "0",
             "Color": {

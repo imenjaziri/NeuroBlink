@@ -1,5 +1,5 @@
 Application/User/Core/stm32f7xx_hal_timebase_tim.o: \
- C:/TouchGFXProjects/sim/Core/Src/stm32f7xx_hal_timebase_tim.c \
+ C:/TouchGFXProjects/NeuroBlink/Core/Src/stm32f7xx_hal_timebase_tim.c \
  ../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal.h \
  ../../Core/Inc/stm32f7xx_hal_conf.h \
  ../../Drivers/STM32F7xx_HAL_Driver/Inc/stm32f7xx_hal_rcc.h \

@@ -7,7 +7,8 @@
 #include <touchgfx/Bitmap.hpp>
 
 const uint16_t BITMAP_NEUROBLINK_ID = 0;
-const uint16_t BITMAP_SANS_TITRE_ID = 1;
+const uint16_t BITMAP_NEUROBLINK_FINALL_ID = 1;
+const uint16_t BITMAP_SANS_TITRE_ID = 2;
 
 namespace BitmapDatabase
 {
