@@ -42,6 +42,7 @@ NeuroBlink enables users to input and display messages through intentional eye b
 > The most stable version for this application is **Python 3.9.0**.  
 > Make sure to install compatible versions of **dlib**, **OpenCV**, and **numpy** for Python 3.9.0 – otherwise, you may encounter runtime errors or compatibility issues.
 >Due to GitHub file size limits, the shape_predictor_68_face_landmarks.dat model is not included in this repository.
+> For the STM32F746 Display code I used the one from controllers tech : https://www.youtube.com/watch?v=x3RSn304_UE&ab_channel=ControllersTech
 ---
 
 ## 📷 Features
